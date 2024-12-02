@@ -10,9 +10,6 @@ tests are in - com.pd.advent2024 package with part1 and part2 containing sample 
 
 <pre>
 
-├───.idea
-├───.mvn
-│   └───wrapper
 ├───src
 │   ├───main
 │   │   ├───java
